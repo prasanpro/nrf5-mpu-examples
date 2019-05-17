@@ -26,3 +26,8 @@ RTE/
 legacy/
 dmp/
 nrf5-mpu-simple-app-twi/
+Output/
+Debug/
+Release/
+*.jlink
+*.emSession
